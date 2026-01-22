@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.dto.AuthRequest;
 import com.example.demo.entity.UserCredential;
-import com.example.demo.serviceImpl.AuthService;
+import com.example.demo.service.AuthService;
 
 import lombok.extern.slf4j.Slf4j;
 

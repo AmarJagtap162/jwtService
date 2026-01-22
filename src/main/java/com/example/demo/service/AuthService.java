@@ -6,7 +6,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.example.demo.entity.UserCredential;
-import com.example.demo.repository.UserCredentialRepository;
+import com.example.demo.repo.UserCredentialRepository;
 
 @Service
 public class AuthService {
